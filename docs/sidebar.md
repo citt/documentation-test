@@ -2,4 +2,3 @@
 - [Guide](guide.md "The greatest guide in the world")
 - **Nested Folder**
     - [Subfolder main page](/subfolder/README.md)
-    - [Another One](/subfolder/anotherone/README.md)
