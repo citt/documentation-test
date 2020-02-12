@@ -2,7 +2,7 @@
   - [Introduction](/introduction/)
 - [Guide](guide.md "The greatest guide in the world")
 - **Nested Folder**
-- [Subfolder main page](/subfolder/)
+- [Subfolder main page](subfolder)
   - [Another One](/subfolder/README.md)
 - [Changelog](changelog)
 - **Links**
