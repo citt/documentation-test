@@ -1,6 +1,4 @@
-- [Home](/)
-  - [Introduction](introduction)
-- [Guide](guide.md "The greatest guide in the world")
+- [Docs](/)
 - **Nested Folder**
 - [Subfolder main page](subfolder)
   - [Another One](/subfolder/README.md)
